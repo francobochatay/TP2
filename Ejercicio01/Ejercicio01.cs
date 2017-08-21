@@ -11,6 +11,7 @@ namespace Ejercicio01
         static void Main(string[] args)
         {
             Console.WriteLine("Hola Mundo");
+            Console.ReadLine();
         }
     }
 }
